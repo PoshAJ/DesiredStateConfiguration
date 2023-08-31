@@ -1,0 +1,10 @@
+Example:
+  PSDscResources:
+    WindowsFeature 'RSAT':
+      Name: RSAT
+      IncludeAllSubFeature: True
+
+  ComputerManagementDsc:
+    PowerShellExecutionPolicy 'ExecutionPolicy':
+      ExecutionPolicyScope: LocalMachine
+      ExecutionPolicy: Bypass
