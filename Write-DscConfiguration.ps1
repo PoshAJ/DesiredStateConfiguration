@@ -1,4 +1,4 @@
-# Copyright (c) 2022 Gael Colas (https://github.com/gaelcolas/DscBuildHelpers)
+# Copyright (c) 2022 Gael Colas, https://github.com/gaelcolas/DscBuildHelpers
 # Modified "Get-DscSplattedResource.ps1" by Anthony J. Raymond
 
 param (
